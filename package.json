@@ -1,0 +1,32 @@
+{
+  "name": "drumkit",
+  "version": "1.0.0",
+  "description": "drum kit website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SageBaram/drumkit.git"
+  },
+  "keywords": [
+    "drumkit",
+    "js",
+    "css",
+    "html",
+    "learning"
+  ],
+  "author": "Sage Baram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SageBaram/drumkit/issues"
+  },
+  "homepage": "https://github.com/SageBaram/drumkit#readme",
+  "dependencies": {
+    "eslint_d": "^12.2.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.34.0"
+  }
+}
